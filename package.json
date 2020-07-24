@@ -1,0 +1,30 @@
+{
+  "name": "react-native-printer-connect",
+  "version": "1.0.0",
+  "description": "connect to printer with socket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linkagezhangming/react-native-connect-printer.git"
+  },
+  "keywords": [
+    "printer",
+    "socket",
+    "connect",
+    "react",
+    "native"
+  ],
+  "author": "linkage",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linkagezhangming/react-native-connect-printer/issues"
+  },
+  "homepage": "https://github.com/linkagezhangming/react-native-connect-printer#readme",
+  "peerDependencies": {
+    "react": "16.9.0",
+    "react-native": "0.61.0"
+  }
+}
